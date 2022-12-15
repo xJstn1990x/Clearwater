@@ -125,3 +125,7 @@ this.http.request('GET', 'https://example.com/api/data', { headers })
 In this example, HttpHeaders is used to create a new instance of the HttpHeaders class and set the Content-Type and X-Custom-Header headers for the request. The request() method is then used to send an HTTP GET request to the specified URL, passing the headers as an option in the request options. When the server responds, the subscribe() method is used to handle the response.
 
 Keep in mind that this is just an example, and you may need to adjust the code to fit the specifics of your situation. For more information about using HttpHeaders and HttpClient.request() in Angular, you can refer to the Angular documentation.
+
+
+
+//►watching◄
